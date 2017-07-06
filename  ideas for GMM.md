@@ -1,3 +1,24 @@
+GMM ideas
+-----
+
+- make abstract
+- make outline
+    1. Review guassian
+    2. GMM - univariate
+    3. EM
+    4. k-means
+    5. multivarite GMM
+    6. binmonmail
+    7. KDE - kernel density estimation (KDE) is a non-parametric way to estimate the probability density function of a random variable. Kernel   
+    8. 
+
+- add MOAR GUASSIAN meme https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwivnfahy_XUAhVI-GMKHYjcAmYQjBAILzAB&url=https%3A%2F%2Fmemegenerator.net%2FMoar-Cat&usg=AFQjCNEr69yHf_al-oxSIyQ6R_8Pk6ycGg
+- plot
+    + https://seaborn.pydata.org/tutorial/distributions.html
+    + https://plot.ly/python/3d-scatter-plots/
+
+- from Murphy book
+- http://scikit-learn.org/stable/modules/mixture.html
 
 -----
 Lab
