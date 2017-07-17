@@ -1,12 +1,16 @@
-Gaussian Mixture Models (GMM) & Expectation–Maximization (EM) Algorithm  
-----
+A Gentle into Gaussian Mixture Models (GMM) & Expectation–Maximization (EM) Algorithm  
+------
 
-If one Gaussian is awesome, what would be more awesome? __Two Gaussians__
+You know and love the Gaussian / Normal / Bell Curve. It is very common, appearing in almost all domains. In particular, it is the work-horse of statistics.
 
-That is what Gaussian Mixture Models (GMM) do, take what you know and love, the Gaussian, and mix several of them together. 
+If one Gaussian distribution is awesome, what would be more awesome? 
+TWO GAUSSIAN DISTRIBUTIONS!
+
+That is what Gaussian Mixture Models (GMM) are - take your old the single Gaussian distribution and mix in another Gaussian distribution.
 
 How does that dark magic happen? The Expectation–Maximization (EM) Algorithm.
 
+This technical talk will start with a quick review of the Gaussian, then move in to GMMs, and discuss how to estimate a GMM with the EM algorithm. An introductory level of statistics is assumed. If you need a refresher, check out https://galvanizeopensource.github.io/stats-shortcourse/ or https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data
 
 
 
